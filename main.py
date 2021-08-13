@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import json
 from requests import get
-token = "ODc1NDk4NDcyOTk5MTI0OTky.YRWZfQ.sHaLiEwaLD0stW70uo4txEutCFQ"
+token = "ODc1NDk4NDcyOTk5MTI0OTky.YRWZfQ.xQhUQdZmvujpl7cw4AmhTneElyc"
 
 client = commands.Bot(command_prefix=".",intents=discord.Intents.all())
 
