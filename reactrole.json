@@ -1,0 +1,74 @@
+[
+    {
+        "role_name": "Verified",
+        "role_id": 875496386265763870,
+        "emoji": "\ud83c\udf34",
+        "message_id": 875505967155003452
+    },
+    {
+        "role_name": "Purple",
+        "role_id": 875513496698241064,
+        "emoji": "\ud83d\udc9c",
+        "message_id": 875514352403357706
+    },
+    {
+        "role_name": "Yellow",
+        "role_id": 875513585596522536,
+        "emoji": "\ud83d\udc9b",
+        "message_id": 875514538114560020
+    },
+    {
+        "role_name": "Red",
+        "role_id": 875513691615936523,
+        "emoji": "\u2764\ufe0f",
+        "message_id": 875514706381639711
+    },
+    {
+        "role_name": "Green",
+        "role_id": 875513743637880853,
+        "emoji": "\ud83d\udc9a",
+        "message_id": 875514822811336745
+    },
+    {
+        "role_name": "Blue",
+        "role_id": 875513814127353877,
+        "emoji": "\ud83d\udc99",
+        "message_id": 875514951295451176
+    },
+    {
+        "role_name": "He/Him",
+        "role_id": 875513860793188373,
+        "emoji": "\u2734\ufe0f",
+        "message_id": 875516505767428117
+    },
+    {
+        "role_name": "He/Him",
+        "role_id": 875513860793188373,
+        "emoji": "\ud83e\uddd1",
+        "message_id": 875516739121729626
+    },
+    {
+        "role_name": "She/Her",
+        "role_id": 875513893101895711,
+        "emoji": "\ud83d\udc69",
+        "message_id": 875516839562711121
+    },
+    {
+        "role_name": "They/Them",
+        "role_id": 875513925196734485,
+        "emoji": "\ud83d\udc09",
+        "message_id": 875517017355083817
+    },
+    {
+        "role_name": "Any Pronouns",
+        "role_id": 875513962748325959,
+        "emoji": "\ud83d\ude4c",
+        "message_id": 875517234083143681
+    },
+    {
+        "role_name": "No Pronouns",
+        "role_id": 875514022617837578,
+        "emoji": "\u2b55",
+        "message_id": 875517429206384731
+    }
+]
